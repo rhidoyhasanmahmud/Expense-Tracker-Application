@@ -20,5 +20,5 @@ A RESTful API created using Spring Boot. We have used PostgreSQL as the relation
 - Spring Boot Web for exposing RESTful webservices.
 - Spring Data JPA and Hibernate for the  data access layer.
 - Spring Boot Test
-- JUnit 5 (JUnit Jupiter) as unit testing framework
-- Mockito as mocking framework
+- JUnit 5 (JUnit Jupiter) as unit testing framework [Working]
+- Mockito as mocking framework [Working]
